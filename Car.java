@@ -2,7 +2,7 @@
 public class Car {
 	Person owner;
 	double price;
-	String model;
+	String Error message;
 	String location;
 	
 	Car(String model, double price) {
